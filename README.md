@@ -1,0 +1,21 @@
+# Terraform Hands-on Lab
+
+´´´
+cd iac
+´´´
+
+´´´
+terraform init
+´´´
+
+´´´
+terraform workspace new dev
+´´´
+
+´´´
+terraform workspace new dev
+´´´
+
+´´´
+terraform workspace show
+´´´
